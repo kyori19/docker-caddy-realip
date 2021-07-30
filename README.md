@@ -6,5 +6,6 @@ A caddy v2 docker image with [realip plugin](https://github.com/kirsch33/realip)
 
 All images are based on alpine linux and its tag name indicates caddy version.
 
-* [`2.3.0`](https://github.com/kyori19/docker-caddy-realip/blob/2.3.0/Dockerfile)
+* [`2.4.3`](https://github.com/kyori19/docker-caddy-realip/blob/2.4.3/Dockerfile)
+* [`2.3.0`](https://github.com/kyori19/docker-caddy-realip/blob/2.3.0/Dockerfile) (outdated)
 * [`2.2.1`](https://github.com/kyori19/docker-caddy-realip/blob/2.2.1/Dockerfile) (outdated)
